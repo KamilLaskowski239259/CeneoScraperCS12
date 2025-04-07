@@ -17,7 +17,7 @@
 |opinion|opinion|div.js_product-reviev:not(.user-post--highlight)|
 |opinion ID|opinion_id|["data-entry-id"]|
 |opinion’s author|author|span.user-post__author-name|
-|author’s recommendation|recomend|span.user-post__author-recomendation > em|
+|author’s recommendation|recommend|span.user-post__author-recomendation > em|
 |score expressed in number of stars|stars|span.user-post__score-count|
 |opinion’s content|content|div.user-post__text|
 |list of product advantages|pros|review-feature__item--positive|
